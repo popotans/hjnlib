@@ -1,0 +1,100 @@
+﻿--1.-- 修改列的类型
+	alter table [tablename]  alter column [columnname] varchar(50)
+--2.--添加列
+	alter table test add  columnname int identity(1,1) not null;
+--3.--删除列
+	alter table test drop column columnname;
+--4.将某个表的某列设为可增长的
+ SET IDENTITY_INSERT [TABLE] [ON|OFF]
+--5. --显示所有的用户数据库
+	select * from master.dbo.sysdatabases where dbid>4
+--6. --显示数据库下所有表名 /*ad_club is database name*/
+	select name from ad_club..sysobjects where xtype='u' 
+--7.--获取表下所有列，名 /*t_board is table name*/
+	SELECT syscolumns.name,systypes.name,syscolumns.length FROM syscolumns,systypes 
+WHERE syscolumns.xusertype = systypes.xusertype and syscolumns.id = object_id('t_board') 
+--8. --创建数据库
+Create DATABASE databasename
+--9. --删除数据库
+	drop database dbname
+--10. --备份sql server
+	USE master
+	EXEC sp_addumpdevice 'disk', 'testBack', 'c:\mssql7backup\MyNwind_1.dat'
+	--- 开始 备份
+	BACKUP DATABASE pubs TO testBack 
+--11 --根据已有的表创建新表： 
+	A：create table tab_new like tab_old --(使用旧表创建新表)
+	B：create table tab_new as select col1,col2… from tab_old definition only
+--12 --说明：删除新表
+	drop table tabname 
+--13. --说明：添加主键
+	Alter table tabname add primary key(col) 
+	--说明：删除主键： 
+		Alter table tabname drop primary key(col) 
+--14. --说明：创建索引
+	create [unique] index idxname on tabname(col….) 
+	--删除索引
+	drop index idxname --注：索引是不可更改的，想更改必须删除重新建
+--15. --创建视图
+	create view viewname as select statement 
+	--删除视图：
+	drop view viewname
+--16. --说明：使用外连接 
+	A、left outer join： 
+	--左外连接（左连接）：结果集几包括连接表的匹配行，也包括左连接表的所有行。 
+	SQL: select a.a, a.b, a.c, b.c, b.d, b.f from a LEFT OUT JOIN b ON a.a = b.c
+	--	B：right outer join: 
+	--右外连接(右连接)：结果集既包括连接表的匹配连接行，也包括右连接表的所有行。 
+	--C：full outer join： 
+	--全外连接：不仅包括符号连接表的匹配行，还包括两个连接表中的所有记录。
+--17. --说明：复制表(只复制结构,源表名：a 新表名：b) (Access可用)
+	法一：select * into b from a where 1<>1
+	法二：select top 0 * into b from a
+--18. --说明：拷贝表(拷贝数据,源表名：a 目标表名：b) (Access可用)
+	insert into b(a, b, c) select d,e,f from b;
+--19. 说明：跨数据库之间表的拷贝(具体数据使用绝对路径) (Access可用)
+	insert into b(a, b, c) select d,e,f from b in ‘具体数据库’ where 条件
+	--例子：..from b in '"&Server.MapPath(".")&"\data.mdb" &"' where..
+20 .--四表联查问题：
+	select * from a left inner join b on a.a=b.b right inner join c on a.a=c.c inner join d on a.a=d.d where .....
+--21.  一条sql 语句搞定数据库分页
+	select top 10 b.* from (select top 20 主键字段,排序字段 from 表名 order by 排序字段 desc) a,表名 b where b.主键字段 = a.主键字段 order by a.排序字段
+--22. 选择在每一组b值相同的数据中对应的a最大的记录的所有信息(类似这样的用法可以用于论坛每月排行榜,每月热销产品分析,按科目成绩排名,等等.)
+	select a,b,c from tablename ta where a=(select max(a) from tablename tb where tb.b=ta.b)
+--23. 随机取出10条数据
+	select top 10 * from tablename order by newid()
+--24. 说明：删除重复记录
+	Delete from tablename where id not in (select max(id) from tablename group by col1,col2,...)
+ --25.初始化表table1
+	TRUNCATE TABLE table1
+ --26.判断表是否存在
+	
+	if object_id(N'tablename',N'U') is not null
+print '存在'
+else
+print '不存在'
+
+IF EXISTS  (SELECT  * FROM dbo.SysObjects WHERE ID = object_id(N'[表名]') AND OBJECTPROPERTY(ID, 'IsTable') = 1)
+PRINT '存在'
+ELSE
+PRINT'不存在'
+--27 l临时表是否存在
+	if exists(select * from tempdb..sysobjects where id=object_id('tempdb..##TEMP_TBL'))
+PRINT '存在'
+ELSE
+PRINT'不存在'
+
+if exists (select * from tempdb.dbo.sysobjects where id = object_id(N'tempdb..#TEMP_TBL') and type='U')
+PRINT '存在'
+ELSE
+PRINT'不存在'
+--28 判断存储过程是否存在
+	--判断存储过程是否存在
+if exists(select 1 from sysobjects where id=object_id('所有者.存储过程名') and xtype='P')  
+print '存在'  
+else  
+print '不存在'
+--29 视图是否存在
+
+
+

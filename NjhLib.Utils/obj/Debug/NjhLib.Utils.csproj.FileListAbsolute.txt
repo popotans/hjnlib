@@ -1,0 +1,172 @@
+E:\njh\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+E:\njh\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+E:\njh\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\njh\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+E:\njh\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+E:\源码\net\NjhLib\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\net\NjhLib\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+E:\源码\net\NjhLib\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+E:\源码\net\NjhLib\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+E:\源码\net\NjhLib\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.xml
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\Ionic.Zip.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\NPOI.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\TopSpace.Bll.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\Ionic.Zip.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\ManagedSQLite.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Bson.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Driver.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\NPOI.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\TopSpace.Bll.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.pdb
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.xml
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.pdb
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.xml
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.xml
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\Ionic.Zip.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\ManagedSQLite.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Bson.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Driver.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\MySql.Data.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\NPOI.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\TopSpace.Bll.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.pdb
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.xml
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.pdb
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.xml
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.xml
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Ionic.Zip.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\ManagedSQLite.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Bson.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Driver.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\MySql.Data.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\NPOI.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\TopSpace.Bll.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\office.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.pdb
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.xml
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.pdb
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.xml
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.xml
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\office.xml
+E:\projects\net\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\projects\net\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+E:\projects\net\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Memcached.ClientLibrary.dll
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\Memcached.ClientLibrary.pdb
+E:\projects\net\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SqlServerCe.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\Ionic.Zip.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\ManagedSQLite.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Bson.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Driver.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\MySql.Data.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\NPOI.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SqlServerCe.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\TopSpace.Bll.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.pdb
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.xml
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.pdb
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.xml
+E:\MyProject\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.xml
+E:\MyProject\project\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\project\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+E:\MyProject\project\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Ionic.Zip.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\ManagedSQLite.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Bson.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Driver.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MySql.Data.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\NPOI.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SqlServerCe.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\TopSpace.Bll.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.pdb
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.xml
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.pdb
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.xml
+E:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.xml
+E:\快盘\project\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\快盘\project\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+E:\快盘\project\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\NjhLib.Utils.pdb
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Ionic.Zip.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\ManagedSQLite.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Bson.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MongoDB.Driver.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MySql.Data.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\NPOI.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SqlServerCe.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\TopSpace.Bll.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.pdb
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Enyim.Caching.xml
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\MemcachedProviders.pdb
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\Newtonsoft.Json.xml
+F:\快盘\project\NjhLib\NjhLib.Utils\bin\Debug\System.Data.SQLite.xml
+F:\快盘\project\NjhLib\NjhLib.Utils\obj\Debug\ResolveAssemblyReference.cache
+F:\快盘\project\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.dll
+F:\快盘\project\NjhLib\NjhLib.Utils\obj\Debug\NjhLib.Utils.pdb

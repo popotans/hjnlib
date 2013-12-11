@@ -1,0 +1,89 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="zh" xmlns="http://www.w3.org/1999/xhtml" lang="zh"><head>
+
+	
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Language" content="zh-CN">
+    <title>正则表达式30分钟入门教程</title>
+    <meta name="keywords" content="正则表达式, 教程, 入门, 文本匹配, 语法">
+    <meta name="description" content="30分钟内让你明白正则表达式是什么，并对它有一些基本的了解，让你可以在自己的程序或网页里使用它。">
+    <meta name="author" content="deerchao">
+    <meta name="author email" content="deerchao@gmail.com">
+    <style type="text/css">
+    	    	body {font-size:100%;}
+            h1 {text-align:center}
+            h2 {background-color:#eee; border-bottom:solid 1px gray; border-right:solid 1px gray; clear:both;}
+            p {text-indent:2em; line-height:140%; margin:5px 20px}
+            span {margin:3px}
+            table {margin:auto; border-style:solid; border-width:1px 1px 0 0; border-color:gray; background:#eee;}
+            td, th {border-style:solid; border-width:0 0 1px 1px; border-color:gray}
+            caption {margin:auto; font-weight:bold}
+            dl {margin-left:20px}
+            dt {font-weight:bold}
+            em {font-style:normal; font-weight:bold; }
+            .webStandards {text-align:right; font-size:80%; color: gray;}
+            .webStandards a {text-align:right; font-size:small; color: gray;}
+            #ad {margin-top:60px;}
+            .ad { border: solid 1px #eee; margin-bottom:60px; clear:right; }
+            .note { float:right; width:300px; padding:5px; background-color:#eee; border:solid 1px gray; clear:right;}
+            #meta {text-align: center}
+            .important {color:orange;}
+            .name {font-weight:bold}
+            .code {color:blue}
+            .regex {color:red}
+            .part {color:green}
+            .string {font-style:italic}
+            .desc {text-decoration:underline}
+            #clearButton,#hideButton {text-decoration:none; border:solid 1px gray; background-color:#eee;}
+    </style>
+    <script type="text/javascript">
+        //<![CDATA[
+        function clearFormats() {
+            var spans = document.getElementsByTagName("span");
+            for (var i = 0; i < spans.length; i++) {
+                spans[i].bakClassName = spans[i].className;
+                spans[i].className = "";
+            }
+            var button = document.getElementById("clearButton");
+            button.innerHTML = "恢复格式";
+            button.onclick = setFormats;
+            return false;
+        }
+        function setFormats() {
+            var spans = document.getElementsByTagName("span");
+            for (var i = 0; i < spans.length; i++) {
+                spans[i].className = spans[i].bakClassName;
+            }
+            var button = document.getElementById("clearButton");
+            button.innerHTML = "清除格式";
+            button.onclick = clearFormats;
+            return false;
+        }
+        function hideNotes() {
+            var note = getCSSRule(".note");
+            note.style.display = "none";
+            var button = document.getElementById("hideButton");
+            button.innerHTML = "显示边注";
+            button.onclick = showNotes;
+            return false;
+        }
+
+        function showNotes() {
+            var note = getCSSRule(".note");
+            note.style.display = "block";
+            var button = document.getElementById("hideButton");
+            button.innerHTML = "隐藏边注";
+            button.onclick = hideNotes;
+            return false;
+        }
+        //]]>
+    </script>
+  </head><body>
+    <h2 id="contents">专题目录</h2>
+   <!-- <p id="skipContents" class="note"><a set="yes" linkindex="2" href="#mission" title="转到正文内容">跳过目录</a></p>-->
+    <ol>
+        <li><a  target="_blank" href="./regular_expression/">正则表达式</a></li>
+  
+    </ol>
+
+</body></html>

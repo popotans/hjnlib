@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>{sitename}</title>
+    <meta name="Keywords" content="{sitekwd}" />
+    <meta name="description" content="{sitedesc}" />
+</head>
+<body>
+<p>now you are:{position}</p>
+<table style="width:100%; background-color:#568">
+<tr>
+{nav}
+   <td><a href="{linkhref}">{linkname}</a></td>
+  {/nav}
+</tr>
+</table>
+
+<table style="width:250px; background-color:#eee">
+{article}
+<tr><td><a href="{linkhref}">{linkname}</a></td></tr>
+{/article}
+</table>
+
+<table style="width:250px; background-color:#ddd" class="click">
+    {click}
+<tr><td><a href="{linkhref}">{linkname}</a></td></tr>
+{/click}
+</table>
+
+<table style="width:250px; background-color:#aaa" class="click">
+{recommend}
+<tr><td><a href="{linkhref}">{linkname}</a></td></tr>
+{/recommend}
+</table>
+</body>
+</html>

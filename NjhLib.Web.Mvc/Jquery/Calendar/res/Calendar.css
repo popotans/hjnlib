@@ -1,0 +1,40 @@
+/* CSS Document */
+body,form,div,f,span,select{ padding:0; margin:0; }
+div,p{ display:block; }
+li{ list-style:none; }
+input{ cursor:pointer; } 
+img{display:block;border:0;}
+a img{border:0; }
+
+.data{width:183px; border:1px solid #108c7a; font-family:Arial, Helvetica, sans-serif;}
+.data_header
+.data_table{background:#fff; width:183px;}
+.data_table th{background:#77beba; font-size:12px; color:#fff; line-height:normal; padding-top:3px; height:17px;}
+.data_table td{background:#efefef; height:15px; font-size:12px; line-height:normal; text-align:center;}
+.data_table td a{color:#313131; width:25px; height:15px; display:block; text-align:center; text-decoration:none; font-family:Arial, Helvetica, sans-serif;}
+.data_table td a:hover{color:#fff; background:#e86902;}
+
+.year{background:#d5e6f0; height:20px; width:181px; margin-top:1px; margin-left:1px;}
+.year .data_btn{ width:34px; height:20px; float:left; margin-left:3px;_margin-left:1px;}
+.year .data_btn01{float:right; width:34px; margin-left:0px;}
+.year .data_btn span{float:left; width:16px;  height:18px; padding-top:2px; text-align:center;}
+.year .data_btn span a{float:left; width:15px; height:15px; padding-top:1px;}
+.year .data_btn span a:hover{background:#fff;}
+
+.year .data_select{width:110px; float:left; height:20px; text-align:left;}
+.year .data_select .select_year{float:left; width:48px; height:20px; padding:0px; font-size:12px;}
+.year .data_select .select_month{float:left; width:59px; height:20px; padding:0px; margin:0px; font-size:12px;}
+.data_table .data_red{color:#ff1919;}
+.data_table .data_red a{color:#ff1919;}
+.data_table .today{background:#d6e6ef; color:#437572;}
+.data_table .today a{background:#d6e6ef; color:#437572;}
+.data_table .data_on{background:#f5c59f; color:#000;}
+.data_table .data_on a{background:#f5c59f; color:#000;}
+.data_table .data_blue{color:#054e85;}
+.data_table .data_blue a{color:#135a90;}
+.bg_table td{ background:#efefef;}
+.qingkong{width:44px; height:19px;margin:3px 0 2px; background:#d5e6f0; font-size:12px;}
+.qingkong a{width:42px; height:15px; border:1px solid #bcbcbc;  padding-top:2px; display:block;color:#313131; text-decoration:none;}
+.qingkong a:hover{background:#e3f0f6; color:#44756f;}
+.jintian a{width:69px;  height:15px; padding-top:2px; border:1px solid #bcbcbc; margin:3px 0 2px; background:#d5e6f0; font-size:12px; display:block;color:#313131; text-decoration:none;}
+.jintian a:hover{background:#e3f0f6; color:#44756f;}

@@ -1,0 +1,227 @@
+E:\njh\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+E:\njh\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+E:\njh\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+E:\njh\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+E:\njh\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+E:\njh\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+E:\njh\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+E:\源码\net\NjhLib\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+E:\源码\net\NjhLib\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+E:\源码\net\NjhLib\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+E:\源码\net\NjhLib\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+E:\源码\net\NjhLib\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\net\NjhLib\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+E:\源码\net\NjhLib\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataAccess.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataMapper.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.Common.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\Castle.DynamicProxy.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.xml
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+D:\MyDocs\Devdoc\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.Analysis.Cn.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\NPOI.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\TopSpace.Bll.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataAccess.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataMapper.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.Common.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\Ionic.Zip.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\Castle.DynamicProxy.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.xml
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+C:\Users\jhnie\Desktop\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\log4net.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.Analysis.Cn.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\NCrawler.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\NPOI.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SqlServerCe.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SqlServerCe.Entity.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\TopSpace.Bll.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataAccess.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataMapper.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.Common.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Driver.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\ICSharpCode.SharpZipLib.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Bson.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Ionic.Zip.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Castle.DynamicProxy.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.pdb
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.xml
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.xml
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.xml
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\bin\Interop.SSCE.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\Interop.SSCE.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.csproj.ResolveComReference.cache
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+D:\jhWorks\Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\log4net.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.Analysis.Cn.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\NCrawler.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\NPOI.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SqlServerCe.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SqlServerCe.Entity.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\TopSpace.Bll.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataAccess.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\MySql.Data.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataMapper.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.Common.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Driver.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\ICSharpCode.SharpZipLib.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Bson.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Ionic.Zip.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Castle.DynamicProxy.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.pdb
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.xml
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.xml
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.xml
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.csproj.ResolveComReference.cache
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+D:\visual studio 2010Projects\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\log4net.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.Analysis.Cn.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\NCrawler.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\NPOI.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SqlServerCe.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\TopSpace.Bll.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataAccess.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\MySql.Data.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.DataMapper.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\IBatisNet.Common.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Driver.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Microsoft.Office.Interop.Excel.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\ICSharpCode.SharpZipLib.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Bson.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Ionic.Zip.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Castle.DynamicProxy.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\office.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Microsoft.Vbe.Interop.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.pdb
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.xml
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.xml
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Microsoft.Office.Interop.Excel.xml
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.xml
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\office.xml
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.csproj.ResolveComReference.cache
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Memcached.ClientLibrary.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Memcached.ClientLibrary.pdb
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Helper.dll
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Helper.pdb
+E:\projects\net\NjhLib\NjhLib.Web.Mvc\bin\Helper.xml
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Helper.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\log4net.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.Analysis.Cn.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\MySql.Data.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\NCrawler.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\NPOI.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SqlServerCe.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\TopSpace.Bll.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Driver.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Microsoft.Office.Interop.Excel.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Memcached.ClientLibrary.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Bson.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Ionic.Zip.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\ICSharpCode.SharpZipLib.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.pdb
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.xml
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Helper.pdb
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Helper.xml
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.xml
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.xml
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Microsoft.Office.Interop.Excel.xml
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\bin\Interop.SSCE.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\Interop.SSCE.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.csproj.ResolveComReference.cache
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+E:\MyProject\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Web.Mvc.pdb
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Helper.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\log4net.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.Analysis.Cn.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Lucene.Net.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\MySql.Data.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\NCrawler.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\NPOI.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SqlServerCe.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\TopSpace.Bll.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\ICSharpCode.SharpZipLib.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Memcached.ClientLibrary.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Driver.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Microsoft.Office.Interop.Excel.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\MongoDB.Bson.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Ionic.Zip.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\NjhLib.Utils.pdb
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.pdb
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Enyim.Caching.xml
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Helper.pdb
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Newtonsoft.Json.xml
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\System.Data.SQLite.xml
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Microsoft.Office.Interop.Excel.xml
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\Interop.SSCE.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\Interop.SSCE.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.csproj.ResolveComReference.cache
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\NVelocity.dll
+E:\快盘\project\NjhLib\NjhLib.Web.Mvc\bin\NVelocity.xml
+F:\快盘\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+F:\快盘\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.dll
+F:\快盘\project\NjhLib\NjhLib.Web.Mvc\obj\Debug\NjhLib.Web.Mvc.pdb

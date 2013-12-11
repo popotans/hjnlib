@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sqlMap namespace="PrpProduct" xmlns="http://ibatis.apache.org/mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <alias>
+    <typeAlias alias="student"  type="NjhLib.Web.Mvc.ibatisnet.Student,NjhLib.Web.Mvc" />
+  </alias>
+  <resultMaps>
+    <resultMap id="studentrs" class="student">
+      <result property="Id" column="id" type="int" dbType="Int"/>
+      <result property="Name" column="name" type="string" dbType="nvarchar"/>
+      <result property="Age" column="age" type="int" dbType="int"/>
+      <result property="Birth" column="Birth" type="datetime" dbType="datetime"/>
+    </resultMap>
+  </resultMaps>
+  <statements>
+    <select id="selectAll" resultMap="studentrs">
+      select * from student
+    </select>
+    <insert id="insertA"  resultClass="int" parameterClass="student">
+      insert into student(name,age,birth)values
+      (#Name#,#Age#,#Birth#)
+      <selectKey resultClass="int" type="post" property="Id" >
+        select @@identity as value
+      </selectKey>
+    </insert>
+    <delete id="deleteById" parameterClass="int">
+      delete student where [id]=#id#
+    </delete>
+    <update id="updateById" parameterClass="student" >
+      update student set
+      age=#Age#,
+      Name=#Name#
+      where [id]=#Id#
+    </update>
+   
+  </statements>
+</sqlMap>

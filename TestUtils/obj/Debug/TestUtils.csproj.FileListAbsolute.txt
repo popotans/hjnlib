@@ -1,0 +1,124 @@
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\TestUtils.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\TestUtils.pdb
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\Castle.DynamicProxy.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\Enyim.Caching.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\IBatisNet.Common.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\IBatisNet.DataAccess.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\IBatisNet.DataMapper.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\Ionic.Zip.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\log4net.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\ManagedSQLite.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\MemcachedProviders.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\MongoDB.Bson.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\MongoDB.Driver.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\MySql.Data.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\Newtonsoft.Json.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\NjhLib.Utils.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\NPOI.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\System.Data.SQLite.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\TopSpace.Bll.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\NjhLib.Utils.pdb
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\Enyim.Caching.pdb
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\Enyim.Caching.xml
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\MemcachedProviders.pdb
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\Newtonsoft.Json.xml
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\System.Data.SQLite.xml
+D:\visual studio 2010Projects\NjhLib\TestUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010Projects\NjhLib\TestUtils\obj\Debug\TestUtils.dll
+D:\visual studio 2010Projects\NjhLib\TestUtils\obj\Debug\TestUtils.pdb
+D:\visual studio 2010Projects\NjhLib\TestUtils\bin\Debug\sys.config
+E:\projects\net\NjhLib\TestUtils\bin\Debug\sys.config
+E:\projects\net\NjhLib\TestUtils\bin\Debug\TestUtils.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\TestUtils.pdb
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Castle.DynamicProxy.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Enyim.Caching.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\IBatisNet.Common.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\IBatisNet.DataAccess.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\IBatisNet.DataMapper.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Ionic.Zip.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\log4net.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\ManagedSQLite.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\MemcachedProviders.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\MongoDB.Bson.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\MongoDB.Driver.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\MySql.Data.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Newtonsoft.Json.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\NjhLib.Utils.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\NPOI.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\System.Data.SQLite.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\TopSpace.Bll.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\NjhLib.Utils.pdb
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Enyim.Caching.pdb
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Enyim.Caching.xml
+E:\projects\net\NjhLib\TestUtils\bin\Debug\MemcachedProviders.pdb
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Newtonsoft.Json.xml
+E:\projects\net\NjhLib\TestUtils\bin\Debug\System.Data.SQLite.xml
+E:\projects\net\NjhLib\TestUtils\obj\Debug\ResolveAssemblyReference.cache
+E:\projects\net\NjhLib\TestUtils\obj\Debug\TestUtils.dll
+E:\projects\net\NjhLib\TestUtils\obj\Debug\TestUtils.pdb
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Memcached.ClientLibrary.dll
+E:\projects\net\NjhLib\TestUtils\bin\Debug\Memcached.ClientLibrary.pdb
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\sys.config
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\TestUtils.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\TestUtils.pdb
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\Castle.DynamicProxy.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\Enyim.Caching.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\IBatisNet.Common.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\IBatisNet.DataAccess.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\Ionic.Zip.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\log4net.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\ManagedSQLite.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\MemcachedProviders.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\MongoDB.Bson.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\MongoDB.Driver.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\MySql.Data.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\NjhLib.Utils.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\NPOI.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\System.Data.SQLite.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\TopSpace.Bll.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\System.Data.SqlServerCe.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\Memcached.ClientLibrary.dll
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\NjhLib.Utils.pdb
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\Enyim.Caching.pdb
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\Enyim.Caching.xml
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\MemcachedProviders.pdb
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\Newtonsoft.Json.xml
+E:\MyProject\project\NjhLib\TestUtils\bin\Debug\System.Data.SQLite.xml
+E:\MyProject\project\NjhLib\TestUtils\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\project\NjhLib\TestUtils\obj\Debug\TestUtils.dll
+E:\MyProject\project\NjhLib\TestUtils\obj\Debug\TestUtils.pdb
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\sys.config
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\TestUtils.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\TestUtils.pdb
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\Castle.DynamicProxy.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\Enyim.Caching.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\IBatisNet.Common.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\IBatisNet.DataAccess.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\Ionic.Zip.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\log4net.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\ManagedSQLite.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\MemcachedProviders.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\MongoDB.Bson.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\MongoDB.Driver.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\MySql.Data.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\Newtonsoft.Json.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\NjhLib.Utils.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\NPOI.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\System.Data.SQLite.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\TopSpace.Bll.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\Memcached.ClientLibrary.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\System.Data.SqlServerCe.dll
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\NjhLib.Utils.pdb
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\Enyim.Caching.pdb
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\Enyim.Caching.xml
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\MemcachedProviders.pdb
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\Newtonsoft.Json.xml
+E:\快盘\project\NjhLib\TestUtils\bin\Debug\System.Data.SQLite.xml
+E:\快盘\project\NjhLib\TestUtils\obj\Debug\ResolveAssemblyReference.cache
+E:\快盘\project\NjhLib\TestUtils\obj\Debug\TestUtils.dll
+E:\快盘\project\NjhLib\TestUtils\obj\Debug\TestUtils.pdb

@@ -1,0 +1,35 @@
+﻿/* $Id: jquery.popup.css 67 2008-01-22 08:54:37Z Bolik@xjgc.com Download by http://www.jb51.net $ */
+
+.popupPanel
+{
+  background-color: #cccc66;
+  position: absolute;
+  border: #0066cc thin solid;
+  _width: 10em;
+  min-width: 10em;
+  _height: 10em;
+  min-height: 10em;
+}
+
+.popupPanel a
+{
+  text-decoration: none;
+}
+.popupPanel a:link
+{
+  color: Blue;
+}
+.popupPanel a:visited
+{
+  color: purple;
+}
+.popupPanel a:hover
+{
+  color: #FF7F50;
+}
+
+.popupController
+{
+  
+  border-bottom: #cc0000 thin solid;
+}
